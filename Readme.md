@@ -30,8 +30,8 @@ https://github.com/user-attachments/assets/3f52e550-260a-413d-a181-5efa7d5f4dc8
 To get started, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/Faizgeeky/Django_RealTime_ChatApp.git
-cd Faiz-Z_Tech-Task
+git clone https://github.com/lalchan123/Django_Websocket_React_Chatapp.git
+cd Django_Websocket_React_Chatapp
 ```
 
 ### Setting Up the Django WebSocket Server
